@@ -1,0 +1,33 @@
+.header{
+
+    background-color: aqua;
+
+    font-style: initial;
+
+    font-size: 1.8em;
+
+    padding: 0 1.5%;
+}
+.dircont{
+
+    font-style: initial;
+
+    font-size: 1.3em;
+
+    border: 1px solid;
+
+    display: inline-block;
+
+    position: absolute;
+
+    left: 5%;
+
+    top: 9%;
+}
+.imgc{
+
+    /* margin-top: 141px; */
+    top: 22%;
+    position: absolute;
+    left: 11%;
+}

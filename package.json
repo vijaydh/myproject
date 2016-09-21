@@ -1,0 +1,42 @@
+{
+
+
+	"p": {
+		"header": "Writing"
+
+	},
+
+
+	"p1": {
+		"audio": "25534_C_Directions",
+		"text": "<span>Directions</span>Use the brush to relate to the Seminole Wars.pa paint the words that <span class=\"italic-text\">best</span> relate to the Seminole Wars.paint the wordspaint the words",
+
+		"wordsheading": "Wordbank",
+
+		"w1": "Kiran",
+
+		"w2": "Kiran",
+		"w3": "Kiran",
+		"w4": "Kiran",
+		"w5": "Kiran"
+
+	},
+
+
+	"draggable": [{
+		"audio": "25069_V_Word_1",
+		"text": "diverse",
+		"image": "assets/images/diverse.png",
+		"identifier": "a"
+	}, {
+		"audio": "25069_V_Word_2",
+		"text": "nomadic",
+		"image": "assets/images/nomadic.png",
+		"identifier": "b"
+	}, {
+		"audio": "25069_V_Word_3",
+		"text": "immunity",
+		"image": "assets/images/immunity.png",
+		"identifier": "c"
+	}]
+}
